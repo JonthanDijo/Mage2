@@ -1,0 +1,14 @@
+{
+    "name": "MK/SamplePage",
+    "description": "This is a demo module",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "dev",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+    }
+}
