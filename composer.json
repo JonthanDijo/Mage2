@@ -1,6 +1,7 @@
 {
     "name": "MK/SamplePage",
     "description": "This is a demo module",
+    "version": "1.0.0",
     "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
@@ -10,5 +11,14 @@
         }
     ],
     "require": {
+    },
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-0": {
+            "MK\\SamplePage\\": ""
+        }
     }
 }
