@@ -1,5 +1,5 @@
 {
-    "name": "MK/SamplePage",
+    "name": "magemk/sample-page",
     "description": "This is a demo module",
     "version": "1.0.0",
     "minimum-stability": "stable",
@@ -17,7 +17,7 @@
         "files": [
             "registration.php"
         ],
-        "psr-0": {
+        "psr-4": {
             "MK\\SamplePage\\": ""
         }
     }
